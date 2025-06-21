@@ -100,12 +100,4 @@ h1 {
     margin-top: 0;
 }
 
-JavaScript (script.js)
-// Add event listener to nav links
-document.querySelectorAll('header nav a').forEach(link => {
-    link.addEventListener('click', event => {
-        event.preventDefault();
-        const sectionId = link.getAttribute('href');
-        document.querySelector(sectionId).scrollIntoView({ behavior: 'smooth' });
-    });
-});
+
