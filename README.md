@@ -21,9 +21,9 @@ HTML (index.html)
     <main>
         <section id="bio">
             <h1>About Me</h1>
-            <p>Hi, I'm Pullati Harsita, a passionate and dedicated individual with a strong interest in technology and innovation. I have a background in [Your Field/Industry] and have been working on various projects to improve my skills and knowledge.</p>
+            <p>Hi, I'm Pullati Harsita, a passionate and dedicated individual with a strong interest in technology and innovation. I have a background in infitechlearn-portfolio website and have been working on various projects to improve my skills and knowledge.</p>
         </section>
-        <section id="skills">
+        <section id="HTML">
             <h1>Skills</h1>
             <ul>
                 <li>HTML & CSS</li>
@@ -33,7 +33,7 @@ HTML (index.html)
                 <li>Programming languages</li>
             </ul>
         </section>
-        <section id="projects">
+        <section id="Personal portfolio">
             <h1>Projects</h1>
             <ul>
                 <li><a href="                     
