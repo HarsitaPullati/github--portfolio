@@ -29,8 +29,8 @@ HTML (index.html)
                 <li>HTML & CSS</li>
                 <li>JavaScript</li>
                 <li>Basic Deployment</li>
-                <li>[Your Skill 1]</li>
-                <li>[Your Skill 2]</li>
+                <li>Python</li>
+                <li>Programming languages</li>
             </ul>
         </section>
         <section id="projects">
