@@ -99,23 +99,14 @@ section {
 h1 {
     margin-top: 0;
 }
-You can reach me at pullatiharshitha@gmail.com or 7013927275. I'm always open to new opportunities and collaborations.
-
-<script src=""script.js"></script>
-CSS (styles.css) body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
-
-header { background-color: #333; color: #fff; padding: 20px; text-align: center; }
-
-header nav ul { list-style: none; margin: 0; padding: 0; }
-
-header nav li { display: inline-block; margin-right: 20px; }
-
-header nav a { color: #fff; text-decoration: none; }
-
-main { display: flex; flex-direction: column; align-items: center; padding: 20px; }
-
-section { background-color: #f7f7f7; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
-
-h1 { margin-top: 0; }
+JavaScript (script.js)
+// Add event listener to nav links
+document.querySelectorAll('header nav a').forEach(link => {
+    link.addEventListener('click', event => {
+        event.preventDefault();
+        const sectionId = link.getAttribute('href');
+        document.querySelector(sectionId).scrollIntoView({ behavior: 'smooth' });
+    });
+});
 
 
