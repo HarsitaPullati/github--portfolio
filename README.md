@@ -11,7 +11,7 @@ HTML (index.html)
     <header>
         <nav>
             <ul>
-                <li><a href="                  
+                <li><a href="                                
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="                            
                 <li><a href="#contact">Contact</a></li>
