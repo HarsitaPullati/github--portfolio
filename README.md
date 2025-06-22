@@ -36,9 +36,9 @@ HTML (index.html)
         <section id="Personal portfolio">
             <h1>Projects</h1>
             <ul>
-                <li><a href="                     
-                <li><a href="                     
-                <li><a href="                     
+                <li><a href="personal portfolio"
+                <li><a href=" To do list app"                    
+                <li><a href="infitechlearn internship"                     
             </ul>
         </section>
         <section id="contact">
